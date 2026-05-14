@@ -113,16 +113,3 @@ def calc_proj_physSize(physSizeL, angleL, zL):
 
 
 
-##############################################################
-
-# filename = '/afs/hep.wisc.edu/user/jlin475/private/estimation_code/TRECS_RFC_files/agnswide'
-
-# print(filename[-8:-5])
-
-# # change from .dat file to .h5 file
-# df = create_dataset(filename)
-# save_TRECS_file(df, filename)
-
-
-
-
